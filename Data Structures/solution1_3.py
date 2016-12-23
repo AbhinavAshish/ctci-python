@@ -37,7 +37,7 @@ def permutationMatcherPreffered(string1 , string2) :
 		return True
 				 
 			
-#string1 = "Antarctica is goofy"
+#string1 = "Antarctica is goofya"
 #string2  = "Bntarctica is goofy"
 
 string1= raw_input("Enter the first String :")
