@@ -22,7 +22,7 @@ def uniqueCharactersSorted(inputString) :
 	return True		
 
 #solution in n preffered
-#Approach : Arrange the characters in ascending order and check for your neighbour 
+#Approach : build a list of with the count of characters and simultaneously check if any of them is repeated.
 
 def uniqueCharactersPreffered(inputString): 
 	char_set = [0]*256 
